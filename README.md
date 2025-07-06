@@ -1,0 +1,1 @@
+[(S.O.L.I.D.|D3) Aggregates](./solid-d3-aggregations.md)
