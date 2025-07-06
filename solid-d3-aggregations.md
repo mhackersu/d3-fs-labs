@@ -1,6 +1,6 @@
-Facade: ISP, DIP
-Chain of Responsibility: SRP, OCP, LSP, ISP, DIP
-Decorator: SRP, OCP, LSP, ISP, DIP
-Factory: SRP, OCP, ISP, DIP
-Builder: SRP, ISP, DIP
-Adapter: SRP, ISP, DIP
+- Facade: ISP, DIP
+- Chain of Responsibility: SRP, OCP, LSP, ISP, DIP
+- Decorator: SRP, OCP, LSP, ISP, DIP
+- Factory: SRP, OCP, ISP, DIP
+- Builder: SRP, ISP, DIP
+- Adapter: SRP, ISP, DIP
