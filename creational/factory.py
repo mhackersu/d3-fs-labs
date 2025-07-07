@@ -1,4 +1,6 @@
-"""*What is this pattern about?
+# factory.py
+
+
 A Factory is an object for creating other objects.
 
 *What does this example do?

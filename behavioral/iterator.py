@@ -1,3 +1,5 @@
+# iterator.py
+
 """
 Implementation of the iterator pattern with a generator
 
