@@ -3,9 +3,6 @@
 """
 Implementation of the iterator pattern with a generator
 
-Reference:
-https://github.com/faif/python-patterns
-
 *TL;DR
 Traverses a container and accesses the container's elements.
 """

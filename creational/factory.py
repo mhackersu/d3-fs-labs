@@ -17,9 +17,6 @@ The Factory Method can be seen in the popular web framework Django:
 https://docs.djangoproject.com/en/4.0/topics/forms/formsets/
 For example, different types of forms are created using a formset_factory
 
-*References:
-https://github.com/faif/python-patterns
-
 *TL;DR
 Creates objects without having to specify the exact class.
 """
