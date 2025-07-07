@@ -2,6 +2,37 @@
 
 [(S.O.L.I.D.|D3) Aggregates](./solid-d3.md)
 
-[What:[OCP, DIP]]
-[Why:[Maintainable, Flexible, Extensible, Tested, Clean]]
-[How:[Identify, Extract, SRP]]
+```
+{
+  "array": [
+    1,
+    2,
+    3
+  ],
+  "boolean": true,
+  "color": "gold",
+  "null": null,
+  "number": 123,
+  "object": {
+    "What": [
+      "OCP",
+      "DIP"
+    ],
+    "Why": [
+      "Maintainabe",
+      "Flexible",
+      "Extensible",
+      "Tested",
+      "Clean"
+    ],
+    "How": [
+      "Identify",
+      "Extract",
+      "SRP"
+    ]
+  },
+  "string": "D3"
+}
+```
+
+[py101](https://github.com/foster-academy/py101)
