@@ -1,3 +1,5 @@
+# functional py
+
 # // map
 def starts_with_A(s):
     return s[0] == "A"

@@ -1,4 +1,8 @@
-# S.O.L.I.D. D3 Aggregates Map
+# SOLID D3 Aggregates Map
+
+# References
+- [py101](https://github.com/foster-academy/py101)
+- [python-patterns](https://github.com/faif/python-patterns)
 
 # S
 ## Single-responsibility Principle (SRP):
@@ -71,5 +75,3 @@ High-level modules should not depend on low-level modules; both should depend on
   }
 }
 ```
-# D3 in Python
-[py101](https://github.com/foster-academy/py101)
