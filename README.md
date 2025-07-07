@@ -1,8 +1,8 @@
 # SOLID D3 Aggregates Map
 
 # References
-- [py101](https://github.com/foster-academy/py101)
-- [python-patterns](https://github.com/faif/python-patterns)
+- [faif/python-patterns](https://github.com/faif/python-patterns)
+- [foster-academy/py101](https://github.com/foster-academy/py101)
 
 # S
 ## Single-responsibility Principle (SRP):
