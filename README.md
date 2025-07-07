@@ -6,5 +6,5 @@
 ## Full-Stack
 [link](./fs/README.md)
 
-## Cloud Function
+## Cloud Functions
 [link](./fun/README.md)
