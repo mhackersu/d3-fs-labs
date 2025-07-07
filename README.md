@@ -47,18 +47,11 @@ High-level modules should not depend on low-level modules; both should depend on
 - Builder [Creational]
 - Adapter [Structural]
 
+# Domain Driven Design
+
 ```
 {
-  "array": [
-    1,
-    2,
-    3
-  ],
-  "boolean": true,
-  "color": "gold",
-  "null": null,
-  "number": 123,
-  "object": {
+  "D3": {
     "What": [
       "OCP",
       "DIP"
@@ -75,9 +68,8 @@ High-level modules should not depend on low-level modules; both should depend on
       "Extract",
       "SRP"
     ]
-  },
-  "string": "D3"
+  }
 }
 ```
-
+# D3 in Python
 [py101](https://github.com/foster-academy/py101)
