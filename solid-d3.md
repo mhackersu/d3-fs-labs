@@ -18,14 +18,14 @@ Objects or entities should be open for extension but closed for modification.
 - Decorator [Structural]
 - Factory [Creational]
 
-# l
+## **l**
 ## Liskov Substitution Principle (LSP):
 Objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program.
 
 - Chain of Responsibility [Behavioral]
 - Decorator [Structural]
 
-# i
+## **i**
 ## Interface Segregation Principle (ISP):
 Clients should not be forced to depend on interfaces they do not use.
 
