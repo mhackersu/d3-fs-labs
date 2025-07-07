@@ -1,7 +1,7 @@
-# D3 Labs
+# d3-fs-labs
 
 ## Domain Driven Design
-[link](./d3-solid/README.md)
+[link](./d3/README.md)
 
 ## Full-Stack
-[link](./full-stack/README.md)
+[link](./fs/README.md)
