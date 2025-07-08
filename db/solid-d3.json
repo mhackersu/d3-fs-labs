@@ -1,0 +1,29 @@
+{
+  "principles": {
+    "SRP": "The single-responsibility principle",
+    "OCP": "The open–closed principle",
+    "LSP": "The Liskov substitution principle",
+    "ISP": "The interface segregation principle",
+    "DIP": "The dependency inversion principle"
+  },
+  "patterns": {
+    "facade": {
+      "principles": ["ISP", "DIP"]
+    },
+    "chain-of-responsibility": {
+      "principles": ["SRP", "OCP", "LSP", "ISP", "DIP"]
+    },
+    "decorator": {
+      "principles": ["SRP", "OCP", "LSP", "ISP", "DIP"]
+    },
+    "factory": {
+      "principles": ["SRP", "OCP", "ISP", "DIP"]
+    },
+    "builder": {
+      "principles": ["SRP", "ISP", "DIP"]
+    },
+    "adapter": {
+      "principles": ["SRP", "ISP", "DIP"]
+    }
+  }
+}
