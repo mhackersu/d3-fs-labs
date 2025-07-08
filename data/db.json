@@ -1,0 +1,110 @@
+{
+  "Ante-Nicene": {
+    "1st Century": {
+      "Volume I": {
+        "title": "The Apostolic Fathers with Justin Martyr and Irenaeus",
+        "authors": [
+          "Clement of Rome",
+          "Mathetes",
+          "Polycarp",
+          "Ignatius",
+          "Barnabas"
+        ],
+        "formats": ["text.zip", "WinHelp.zip", "pdf"]
+      }
+    },
+    "2nd Century": {
+      "Volume I (continued)": {
+        "authors": [
+          "Papias",
+          "Justin Martyr",
+          "Irenaeus"
+        ]
+      },
+      "Volume II": {
+        "title": "Fathers of the Second Century",
+        "authors": [
+          "Hermas",
+          "Tatian",
+          "Theophilus",
+          "Athenagoras",
+          "Clement of Alexandria"
+        ],
+        "formats": ["pdf", "text.zip", "WinHelp.zip", "hermas.rtf"]
+      },
+      "Volume III": {
+        "title": "Latin Christianity: Its Founder, Tertullian",
+        "sections": [
+          "I. Apologetic",
+          "II. Anti-Marcion",
+          "III. Ethical"
+        ],
+        "formats": ["text.zip", "WinHelp.zip"]
+      }
+    },
+    "3rd Century": {
+      "Volume IV": {
+        "title": "The Fathers of the Third Century",
+        "authors": [
+          "Tertullian Part IV",
+          "Minucius Felix",
+          "Commodian",
+          "Origen"
+        ],
+        "formats": ["text.zip", "WinHelp.zip"]
+      },
+      "Volume V": {
+        "title": "The Fathers of the Third Century",
+        "authors": [
+          "Hippolytus",
+          "Cyprian",
+          "Caius",
+          "Novatian",
+          "Appendix"
+        ],
+        "formats": ["text.zip", "WinHelp.zip"]
+      },
+      "Volume VI": {
+        "title": "The Fathers of the Third Century",
+        "authors": [
+          "Gregory Thaumaturgus",
+          "Dinysius the Great",
+          "Julius Africanus",
+          "Anatolius and Minor Writers",
+          "Methodius",
+          "Arnobius"
+        ],
+        "formats": ["text.zip", "WinHelp.zip"]
+      }
+    },
+    "3rd–4th Century": {
+      "Volume VII": {
+        "title": "Fathers of the Third and Fourth Centuries",
+        "authors": [
+          "Lactantius",
+          "Venantius",
+          "Asterius",
+          "Victorinus",
+          "Dionysius",
+          "Apostolic Teaching and Constitutions",
+          "Homily",
+          "Liturgies"
+        ],
+        "formats": ["text.zip", "WinHelp.zip"]
+      },
+      "Volume VIII": {
+        "title": "Fathers of the Third and Fourth Centuries",
+        "contents": [
+          "The Twelve Patriarchs",
+          "Excerpts and Epistles",
+          "The Clementia",
+          "Apocrypha",
+          "Decretals",
+          "Memoirs of Edessa and Syriac Documents",
+          "Remains of the First Ages"
+        ]
+      }
+    }
+  }
+}
+
