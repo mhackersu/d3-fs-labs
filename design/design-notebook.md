@@ -8,21 +8,18 @@ Moreover, Python’s vast and well-maintained ecosystem offers free, open-source
 
 Finally, Python’s role in modern education and industry ensures that skills learned are not just academic but highly transferable. Many universities, coding bootcamps, and online courses choose Python as the introductory language because it scales from beginner to advanced topics seamlessly. This longevity reduces the need to learn multiple languages early on, saving time and resources while preparing learners for diverse career opportunities in software development, data science, automation, and beyond.
 
-## ADRs
-- Structural, MVC, API
-
 ## Patterns
 - [D3|Solid Aggregates](./methods/d3/aggregates.json)
 
 ### OOP
 
 - S - Single-Responsibility Principle (SRP)
-- O - Open-Closed Principle (OCP) - (also demonstrated in DIP)
-- L - 
-- I - 
+- O - Open-Closed Principle (OCP) - **(also demonstrated in DIP)**
+- L - Liskov Substitution Principle (LSP)
+- I - Interface Segregation Principle (ISP)
 - D - Dependency Inversion Principle (DIP)
 
-### D3
+### D3 in Python
 
 - Behavioral
     - Chain of Responsibility
