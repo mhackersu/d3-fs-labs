@@ -1,16 +1,12 @@
 # Design Notebook
 
 ## Languages
-- Python
-
 Why Python?
-Python handles the kinds of problems that the C# and Java world has been working on for years. Startups become real businesses; web apps and scripted automations are becoming (whisper it) enterprise software.
+Python is an economical choice for learning computer science fundamentals because of its simplicity and readability. Its clean, English-like syntax allows beginners to focus on core programming concepts without getting bogged down in complex syntax rules or boilerplate code common in languages like C# or Java. This lowers the barrier to entry, enabling learners to grasp essential ideas like variables, control flow, functions, and data structures more quickly, which accelerates early progress and builds confidence.
 
-In the Python world, we often quote the Zen of Python: "There should be one—​and preferably only one—​obvious way to do it."[1] Unfortunately, as project size grows, the most obvious way of doing things isn’t always the way that helps you manage complexity and evolving requirements.
+Moreover, Python’s vast and well-maintained ecosystem offers free, open-source libraries and tools that support a broad range of computer science topics—from algorithms and data structures to web development and machine learning. This means learners can practice real-world applications without costly software licenses or complicated setups. Coupled with Python’s interactive environments like Jupyter notebooks, students get immediate feedback and can experiment dynamically, making learning more engaging and cost-effective.
 
-Observing the classics in the field such as [Eric Evans’s Domain-Driven Design](../design/methods/d3/reference/domain-driven-design.pdf) or Martin Fowler’s Patterns of Enterprise Application Architecture (both published by Addison-Wesley Professional).
-
-But all the classic code examples in the literature do tend to be written in Java or C++/#, and if you’re a Python person and haven’t used either of those languages in a long time (or indeed ever), those code listings can be quite…​trying. There’s a reason the latest edition of that other classic text, Fowler’s Refactoring (Addison-Wesley Professional), is in JavaScript.
+Finally, Python’s role in modern education and industry ensures that skills learned are not just academic but highly transferable. Many universities, coding bootcamps, and online courses choose Python as the introductory language because it scales from beginner to advanced topics seamlessly. This longevity reduces the need to learn multiple languages early on, saving time and resources while preparing learners for diverse career opportunities in software development, data science, automation, and beyond.
 
 ## ADRs
 - Structural, MVC, API
@@ -20,10 +16,11 @@ But all the classic code examples in the literature do tend to be written in Jav
 
 ### OOP
 
-- S
-- L
-- I
-- D
+- S - Single-Responsibility Principle (SRP)
+- O - Open-Closed Principle (OCP) - (also demonstrated in DIP)
+- L - 
+- I - 
+- D - Dependency Inversion Principle (DIP)
 
 ### D3
 
