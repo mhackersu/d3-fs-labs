@@ -69,7 +69,7 @@ class Adapter:
     """Adapts an object by replacing methods.
 
     Usage
-    ------
+    
     dog = Dog()
     dog = Adapter(dog, make_noise=dog.bark)
     """
